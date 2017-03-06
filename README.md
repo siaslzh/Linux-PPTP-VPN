@@ -3,8 +3,11 @@
 
 步骤：
 1.下载脚本
+
 2.运行脚本
+
 chmod a+x vpn_centos6.sh
+
 ./vpn_centos6.sh
 
 执行后有1、2、3种英文，对应如下中文意思。
